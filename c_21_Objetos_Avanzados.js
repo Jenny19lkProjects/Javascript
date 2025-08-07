@@ -1,4 +1,4 @@
-/ Constructor Object()
+// Constructor Object()
 
 const movie = new Object();
 movie.title = "El Señor de los Anillos";
